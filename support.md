@@ -17,7 +17,7 @@ Home says **Can't reach** your server when the computer it runs on is asleep, sw
 
 ## Who's in the scene
 
-It needs the cast's photos from your Plex server; it does best with films and shows whose cast Plex lists with photos. It's asked about on the first pause; Settings > **Who is in the scene** has the switch, an optional TMDB key for more photos of each actor, and **Forget what it has learned**.
+It needs the cast's photos from your Plex server; it does best with films and shows whose cast Plex lists with photos. It's asked about on the first pause; Settings > **Who is in the scene** has the switch, an optional TMDB key for more photos of each actor, and **Forget the faces it has kept**.
 
 ## Subtitles and audio
 

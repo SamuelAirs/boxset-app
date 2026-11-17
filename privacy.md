@@ -6,7 +6,7 @@ title: Privacy policy
 # Privacy policy
 
 **Boxset** for Apple TV, iPhone and iPad<br>
-Effective November 16, 2026
+Effective November 17, 2026
 
 <p class="lead">The short version: Boxset collects nothing about you. There's no Boxset account, no analytics, no advertising and no tracking, and there are no Boxset servers: nothing reaches its developer. Boxset talks to Plex, to your own servers, and only if you set them up, to TMDB with your own key and to your own request server.</p>
 
@@ -16,7 +16,7 @@ To sign in, Boxset shows a code you enter at plex.tv/link; Plex then gives the a
 
 ## Who's in the scene
 
-The first time you pause a film or an episode, Boxset asks whether to show who's in the scene. If you say yes, it reads the paused picture **on your device**, finds the faces in it and compares them with the cast's photos from your Plex server (and from TMDB, if you added a TMDB key). No picture and no face is sent anywhere. To recognise the cast sooner next time, it keeps, in the app's caches on the device, numbers describing faces it was sure of, per show or film, and the times each person was seen in a title; never a picture. These go after 120 days unused, and Settings > Who is in the scene > Forget what it has learned removes them, with its log, at once. The switch in the same place turns it off.
+The first time you pause a film or an episode, Boxset asks whether to show who's in the scene. If you say yes, it reads the paused picture **on your device**, finds the faces in it and compares them with the cast's photos from your Plex server (and from TMDB, if you added a TMDB key). No picture and no face is sent anywhere. To recognise the cast sooner next time, it keeps, in the app's caches on the device, numbers describing faces it was sure of, per show or film, and the times each person was seen in a title; never a picture. These go after 120 days unused, and Settings > Who is in the scene > Forget the faces it has kept removes them, with its log, at once. The switch in the same place turns it off.
 
 ## TMDB (optional)
 
